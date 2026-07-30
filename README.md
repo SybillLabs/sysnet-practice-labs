@@ -19,6 +19,9 @@ Ce dépôt permet aux recruteurs et aux pairs d’accéder rapidement à mes tra
 ## 🔗 Labs SysNet
 > Chaque lien ci-dessous pointe vers un dépôt dédié contenant un lab complet, reproductible et documenté.
 
+- **[Windows to Arch-Linux](https://github.com/SybillLabs/win-to-arch.git)**    
+    Migration d’un poste Windows vers Arch Linux, avec installation et configuration par rapport à un cachier des charges.
+
 ## ⚠️ Disclaimer
 
 - Ce dépôt a une vocation **personnelle**.  
