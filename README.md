@@ -1,4 +1,10 @@
-<h1 align="center">🖧 SysNet Practice Labs</h1>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=4666D8&text=SysNet%20Practice%20Labs&reversal=false&fontColor=46AED8" alt="Header"/>
+</p>
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0087&width=435&lines=Administration+syst%C3%A8me+%26+r%C3%A9seau;Virtualisation+et+simulation+d'infrastructure" alt="Typing SVG" /></a>
+</p>
 
 ## 🧭 Périmètre et contexte
 
@@ -21,6 +27,9 @@ Ce dépôt permet aux recruteurs et aux pairs d’accéder rapidement à mes tra
 
 - **[Windows to Arch-Linux](https://github.com/SybillLabs/win-to-arch.git)**    
     Migration d’un poste Windows vers Arch Linux, avec installation et configuration par rapport à un cachier des charges.
+- **[Cisco Packet Tracer : Les bases](https://github.com/SybillLabs/network-vlan-packet-tracer.git)**  
+    Mise en situation via un travaux pratique sur les bases du réseau avec le logiciel **Cisco Packet Tracer**.
+- **[Insfrastructure Windows basique avec VMware Workstation Pro](https://github.com/SybillLabs/infra-windows-vmware.git)**
 
 ## ⚠️ Disclaimer
 
