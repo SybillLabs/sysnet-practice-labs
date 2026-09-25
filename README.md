@@ -3,7 +3,7 @@
 </p>
 
 ## `> quickstart`
-Ce dépôt centralise l'ensemble des travaux réalisé en **administration d'infrastructure sécurisée** et sert de point d'entrée vers les différents labs, travaux pratiques, et mise en situation.
+Ce dépôt centralise l'ensemble des travaux réalisés en **administration d'infrastructure sécurisée** et sert de point d'entrée vers les différents labs, travaux pratiques et mises en situation.
 
 L'organisation privilégie :
 - un dépôt par **lab consistant** (installation complète, configuration avancée, multi‑services, ...)
