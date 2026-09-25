@@ -2,20 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&fontColor=FF003C&fontSize=48&height=160&width=900&text=SysNet%20Practice%20Labs&section=header&animation=fadeIn" alt="Header"/>
 </p>
 
-## `> ./context.sh`
+## `> quickstart`
+Ce dépôt centralise l'ensemble des travaux réalisé en **administration d'infrastructure sécurisée** et sert de point d'entrée vers les différents labs, travaux pratiques, et mise en situation.
 
-Ce dépôt centralise l'ensemble de mes travaux réalisés sur la plateforme **administration système et réseau**.
-Il sert de **point d'entrée unique** vers les différents labs, travaux et modules que j'ai étudiés.
+L'organisation privilégie :
+- un dépôt par **lab consistant** (installation complète, configuration avancée, multi‑services, ...)
+- une documentation **minimaliste**, **claire** et **reproductible**
+- mise en avant des **cas concrets** : installation de services, configuration réseau, sécurisation, troubleshooting.
+- une structure qui favorise la **cohérence**, la **lisibilité**, et la **valorisation des compétences**.
 
-En parcours vers **Administratrice d'Infrastructure Sécurisée**, cap final **Diplôme d'Ingénieure**, ce dépôt permet aux recruteurs et aux pairs d'accéder rapidement à mes travaux, sans naviguer dans une multitude de dépôts.
-
-## `> ./approach.sh`
-- Un dépôt par **lab consistant** (installation complète, configuration avancée, multi‑services, etc.).
-- Documentation **minimaliste**, claire et reproductible.
-- Priorité aux **cas concrets** : installation de services, configuration réseau, sécurisation, troubleshooting.
-- Priorité à la **cohérence**, à la **lisibilité**, et à la **valorisation des compétences**.
-
-## `> ./labs.sh`
+## `> labs`
 > Chaque lien ci-dessous pointe vers un dépôt dédié contenant un lab complet, reproductible et documenté.
 
 - **[Windows to Arch-Linux](https://github.com/SybillLabs/win-to-arch.git)** *(en réévaluation)*   
@@ -26,7 +22,7 @@ En parcours vers **Administratrice d'Infrastructure Sécurisée**, cap final **D
 - **[Infrastructure Windows basique avec VMware Workstation Pro](https://github.com/SybillLabs/infra-windows-vmware.git)**  
     *Mise en situation d'un déploiement d'une infrastructure Windows virtualisée avec **VMware Workstation Pro***
 
-## `> ./disclaimer.sh`
+## `> disclaimer`
 - Ce dépôt a une vocation **personnelle**.  
 - Les contenus publiés sont destinés à documenter mes travaux et ne doivent être utilisés qu’à des fins d’apprentissage.  
 - Aucun mot de passe, fichier protégé ou contenu confidentiel n’est publié.  
