@@ -12,7 +12,6 @@ L'organisation privilégie :
 - une structure qui favorise la **cohérence**, la **lisibilité** et la **valorisation des compétences**.
 
 ## `> labs`
-> Chaque lien ci-dessous pointe vers un dépôt dédié contenant un lab complet, reproductible et documenté.
 
 - 🌐🖥️ <a href="https://github.com/SybillLabs/network-vlan-packet-tracer">Network VLAN Cisco Packet Tracer</a>  
   Mise en œuvre complète d'une infrastructure réseau segmentée : adressage VLSM, VLANs, routage inter-VLAN, OSPF sur liaison WAN, services DHCP/DNS/NTP et politiques de sécurité (SSH restreint, ACL, port-security, DHCP snooping).
