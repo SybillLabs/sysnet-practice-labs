@@ -14,13 +14,14 @@ L'organisation privilégie :
 ## `> labs`
 > Chaque lien ci-dessous pointe vers un dépôt dédié contenant un lab complet, reproductible et documenté.
 
-- **[Windows to Arch-Linux](https://github.com/SybillLabs/win-to-arch.git)** *(en réévaluation)*   
-    *Migration d’un poste Windows vers Arch Linux, avec installation et configuration par rapport à un cahier des charges.*
-    *Projet remis en question suite à l'acquisition de nouvelles connaissances : je vérifie qu'Arch Linux reste le choix le plus adapté à mon environnement avant de poursuivre.*
-- **[Cisco Packet Tracer : Les bases](https://github.com/SybillLabs/network-vlan-packet-tracer.git)**  
-    *Mise en situation d'une simulation d'infrastructure réseau avec **Cisco Packet Tracer***
-- **[Infrastructure Windows basique avec VMware Workstation Pro](https://github.com/SybillLabs/infra-windows-vmware.git)**  
-    *Mise en situation d'un déploiement d'une infrastructure Windows virtualisée avec **VMware Workstation Pro***
+- 🌐🖥️ <a href="https://github.com/SybillLabs/network-vlan-packet-tracer">Network VLAN Cisco Packet Tracer</a>  
+  Mise en œuvre complète d'une infrastructure réseau segmentée : adressage VLSM, VLANs, routage inter-VLAN, OSPF sur liaison WAN, services DHCP/DNS/NTP et politiques de sécurité (SSH restreint, ACL, port-security, DHCP snooping).
+- 🖧🪟 <a href="https://github.com/SybillLabs/infra-windows-vmware">Infrastructure Windows avec VMware</a>  
+  Mise en œuvre d'une infrastructure Windows pour une PME : Active Directory, DHCP, DNS, GPO, Réplication, Partage NTFS, Routage, Script PowerShell.
+- 🪟🌲 <a href="https://github.com/SybillLabs/ad-multi-forest-lab">Intégration d'une infrastructure Windows Server multi-forêts</a>  
+  Mise en œuvre d'une infrastructure Windows avec deux forêts : Active Directory, GPO, politiques de mot passe différenciées, LAPS, accès temporaire, partages, permissions, DFS, réplication, FSRM/classification, WAC/IPAM et approbation.
+- 🪟📝 <a href="https://github.com/SybillLabs/ad-admin-toolkit">Acive Directory Admin Toolkit</a>  
+  Script PowerShell interactifs d'administration d'un domaine Active Directory
 
 ## `> disclaimer`
 - Ce dépôt a une vocation **personnelle**.  
